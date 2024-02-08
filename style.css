@@ -1,0 +1,26 @@
+body {
+    background-image: url(tech.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p, h1, li {
+    color: #ffffff;
+    font-size: 21px;
+}
+
+h1 {
+    text-align: center;
+    text-decoration:underline
+}
+
+p {
+    font-weight: 500
+}
+
+a {
+    color: rgb(67, 212, 145)
+    
+}
